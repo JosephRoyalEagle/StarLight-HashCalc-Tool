@@ -13,7 +13,7 @@ StarLight HashCalc Tool is a powerful and easy-to-use software for calculating a
 
 To install StarLight HashCalc Tool, follow these steps:
 
-1. Download the `.msi` installer from the [GitHub repository](https://github.com/JosephRoyalEagle/StarLight-HashCalc-Tool/releases).
+1. Download the `.msi` installer from the [GitHub repository](https://github.com/JosephRoyalEagle/StarLight-HashCalc-Tool/tree/main).
 2. Run the downloaded `.msi` file.
 3. Follow the on-screen instructions to complete the installation.
 
